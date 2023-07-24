@@ -1,0 +1,41 @@
+
+  
+  .input-plus {
+	display: flex;
+  }
+  
+  .inputs-set {
+	border: none;
+  }
+  .email-input__w {
+	display: flex;
+	align-items: center;
+	margin-bottom: 4px;
+  }
+  
+  .input-field {
+	border: none;
+	border: 1px solid rgb(209, 209, 209);
+	padding: 8px;
+	margin-right: 4px;
+	display: block;
+  }
+  
+  .btn-submit,
+  .btn-add-input,
+  .btn-del-input {
+	border: none;
+	padding: 8px 12px;
+  }
+  
+  .btn-submit {
+	background-color: rgb(152, 247, 199);
+  }
+  
+  .btn-add-input {
+	background-color: rgb(127, 187, 255);
+	margin-right: 4px;
+  }
+  .btn-del-input {
+	background-color: rgb(255, 127, 148);
+  }
